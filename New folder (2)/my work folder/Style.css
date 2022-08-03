@@ -1,0 +1,22 @@
+/*Selector {
+	Property: value;
+}*/
+
+h2{
+	color: #AA9439 ;
+	text-align: center;
+	border: 5px solid rgba(128, 124, 21, 0.5);
+	cursor:pointer;
+}
+
+p {
+	color: pink;	
+ }
+
+ p{
+ 	color: green;
+ }
+ li{
+ 	list-style: none;
+ 	display: inline-block;
+ }

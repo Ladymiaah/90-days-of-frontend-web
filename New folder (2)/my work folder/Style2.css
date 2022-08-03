@@ -1,0 +1,17 @@
+/*selector{
+	property:  value;
+}*/
+
+h2{
+	color: #AA4134;
+	text-align: center;
+	border: 5px solid rgba(255, 0, 0, 1);
+	cursor:pointer;
+}
+p{
+	color: #AA4134
+}
+li{
+	list-style: none;
+	display:block;
+}
